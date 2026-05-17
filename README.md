@@ -1,6 +1,6 @@
 *To read this in a pretty version, press **⌘ + ⇧ + V** (Mac) or **Ctrl + Shift + V** (Windows)*
 
-# GetShitDone 🚀
+# GetStuffDone 🚀
 
 A full-stack to-do list application built as learning material for **Introduction to Back-End Web Development**.
 
